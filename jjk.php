@@ -19,7 +19,7 @@ if ($key == 'sgblondon69') {
         'Accept: application/json',
         'X-Session-ID: 0a6145d4-8c9e-4a26-83d7-b07b3fa29bc2',
         'D1: 31:FC:81:8E:C4:F5:88:0D:92:02:6B:88:30:E0:EE:45:B5:24:E5:D9:FB:94:EE:18:05:36:DB:F1:36:AB:F9:6F',
-        'X-PhoneModel: ASUS,ZenFone Max Pro M1',
+        'X-PhoneModel: Android,SM-'.$Phonemodel.'',
         'X-PushTokenType: FCM',
         'X-DeviceOS: Android,5.1.1',
         'User-uuid: ',
@@ -27,7 +27,6 @@ if ($key == 'sgblondon69') {
         'Authorization: Bearer',
         'Accept-Language: id-ID',
         'X-User-Locale: id_ID',
-        'X-M1: 1:__9b2aedf2760e4cbb8ac111bbbdfc1c18,2:00f0ea90,3:1564269009625-1025403701101507221,4:15998,5:android-x86|2465|2,6:UNKNOWN,7:"Yummy",8:1080x1920,9:passive\,gps,10:1,11:UNKNOWN',
         'Content-Type: application/json; charset=UTF-8',
         'Connection: Keep-Alive',
         'User-Agent: okhttp/3.12.1'
